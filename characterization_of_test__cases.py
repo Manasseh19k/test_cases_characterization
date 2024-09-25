@@ -21,7 +21,7 @@ SEARCH_QUERY = 'stars:>100 forks:>50 pushed:>=2022-09-17 language:python languag
 EXCLUDE_KEYWORDS = ["toy", "sample", "example", "projects", "demo", "tutorial", "project"]
 
 # GitHub token
-TOKEN = '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'
+TOKEN = '' # Insert github access token
 
 # Headers for authenticated requests
 HEADERS = {
